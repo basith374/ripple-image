@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { RippleImage } from '.'
 
-describe('ExampleComponent', () => {
+describe('RippleImage', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(RippleImage).toBeTruthy()
   })
 })

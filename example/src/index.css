@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+canvas {
+  vertical-align: top;
+}
+
+.container {
+  height: 100vh;
+}

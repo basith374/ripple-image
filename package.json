@@ -1,10 +1,11 @@
 {
-  "name": "water-ripple",
+  "name": "ripple-image",
   "version": "1.0.0",
   "description": "Add ripple effect to any image",
+  "keywords": ["react", "react-component", "image", "effect"],
   "author": "basith374",
   "license": "MIT",
-  "repository": "basith374/water-ripple",
+  "repository": "basith374/ripple-image",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

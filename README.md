@@ -1,13 +1,13 @@
-# water-ripple
+# React image component
 
 > Add ripple effect to any image
 
-[![NPM](https://img.shields.io/npm/v/water-ripple.svg)](https://www.npmjs.com/package/water-ripple) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/ripple-image.svg)](https://www.npmjs.com/package/ripple-image) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save water-ripple
+npm install --save ripple-image
 ```
 
 ## Usage
@@ -15,12 +15,11 @@ npm install --save water-ripple
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'water-ripple'
-import 'water-ripple/dist/index.css'
+import RippleImage from 'ripple-image'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <RippleImage />
   }
 }
 ```

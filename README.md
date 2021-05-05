@@ -2,7 +2,7 @@
 
 > Add ripple effect to any image
 
-[![NPM](https://img.shields.io/npm/v/ripple-image.svg)](https://www.npmjs.com/package/ripple-image) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/ripple-image.svg)](https://www.npmjs.com/package/ripple-image) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![build](https://github.com/basith374/ripple-image/actions/workflows/main.yml/badge.svg)](https://github.com/basith374/ripple-image/actions/workflows/main.yml)
 
 ## Install
 

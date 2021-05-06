@@ -16,7 +16,6 @@ jobs:
           node-version: 12
           
       - run: yarn
-      - run: yarn test
 
       - uses: JS-DevTools/npm-publish@v1
         with:

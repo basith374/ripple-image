@@ -23,7 +23,7 @@ import RippleImage from 'ripple-image'
 
 class Example extends Component {
   render() {
-    return <RippleImage />
+    return <RippleImage src="https://images/some-image" />
   }
 }
 ```

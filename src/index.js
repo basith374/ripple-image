@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import * as PIXI from 'pixi.js'
 import texture from 'cloud500.jpg'
 
-export const RippleImage = ({ src, style }) => {
+const RippleImage = ({ src, style }) => {
   const ref = useRef()
   useEffect(() => {
     const app = new PIXI.Application({
@@ -33,3 +33,5 @@ export const RippleImage = ({ src, style }) => {
   }, [])
   return <div ref={ref} style={style} />
 }
+
+export default RippleImage

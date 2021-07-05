@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { RippleImage } from 'water-ripple'
+import RippleImage from 'water-ripple'
 
 const App = () => {
   return <div className="container">

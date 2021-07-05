@@ -1,4 +1,4 @@
-import { RippleImage } from '.'
+import RippleImage from '.'
 
 describe('RippleImage', () => {
   it('is truthy', () => {
